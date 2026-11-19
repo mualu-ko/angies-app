@@ -1,0 +1,56 @@
+{
+  "_note": "SAMPLE CONTENT FOR THE DEMO. Pharmacy students must review and approve every entry before real use.",
+  "drugs": [
+    {
+      "id": "capecitabine",
+      "name": "Capecitabine",
+      "class": "Oral chemotherapy (antimetabolite)",
+      "cancerTypes": ["Breast cancer", "Colorectal cancer"],
+      "howToTake": [
+        "Take twice a day, about 12 hours apart",
+        "Swallow whole with water within 30 minutes after a meal",
+        "Usually 14 days on, then 7 days off"
+      ],
+      "sideEffects": ["Hand-foot pain", "Diarrhoea", "Mouth sores", "Nausea", "Tiredness"],
+      "getHelpIf": [
+        "Diarrhoea 4 or more extra times a day",
+        "Fever or signs of infection",
+        "Painful, blistering hands or feet",
+        "Chest pain"
+      ]
+    },
+    {
+      "id": "imatinib",
+      "name": "Imatinib",
+      "class": "Targeted therapy (tyrosine kinase inhibitor)",
+      "cancerTypes": ["Leukaemia (CML)", "GIST"],
+      "howToTake": [
+        "Take once a day at the same time",
+        "Take with food and a large glass of water",
+        "Keep taking it every day unless your doctor says stop"
+      ],
+      "sideEffects": ["Swelling", "Nausea", "Muscle cramps", "Rash", "Tiredness"],
+      "getHelpIf": [
+        "Sudden weight gain or breathlessness",
+        "Severe or blistering rash",
+        "Unusual bleeding or bruising"
+      ]
+    },
+    {
+      "id": "tamoxifen",
+      "name": "Tamoxifen",
+      "class": "Hormone therapy",
+      "cancerTypes": ["Breast cancer"],
+      "howToTake": [
+        "Take once a day at the same time",
+        "You can take it with or without food"
+      ],
+      "sideEffects": ["Hot flushes", "Changes in periods", "Tiredness", "Mood changes"],
+      "getHelpIf": [
+        "Pain or swelling in one leg",
+        "Chest pain or sudden breathlessness",
+        "Unusual vaginal bleeding"
+      ]
+    }
+  ]
+}

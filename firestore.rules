@@ -1,0 +1,65 @@
+rules_version = '2';
+
+// DEMO RULES for the student project. release.ps1 deploys them
+// (or paste into Firebase console > Firestore Database > Rules > Publish).
+//
+// What they enforce:
+//  - Nothing is readable or writable without signing in.
+//  - Only staff (email/password accounts) can change a report's status,
+//    reply to a patient, or approve/flag a medicine.
+//  - Patients (anonymous sign-in) can only create items in their first state.
+//
+// Known gap before any real use: a signed-in patient could read other
+// patients' data, because anonymous sign-in isn't linked to a patient
+// number. Fix in production with Cloud Functions + custom claims
+// (patientNumber on the token) and `resource.data.patientNumber == ...` checks.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function isStaff() {
+      return signedIn() && request.auth.token.firebase.sign_in_provider == 'password';
+    }
+
+    match /patients/{id} {
+      allow read, write: if signedIn();
+    }
+
+    match /doseEvents/{id} {
+      allow read: if signedIn();
+      allow create, update: if signedIn();
+      allow delete: if isStaff();
+    }
+
+    match /adrReports/{id} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.status == 'new';
+      // Patients may resend a report still marked new, or acknowledge an
+      // urgent care instruction (only the careAction field changes).
+      allow update: if isStaff()
+        || (signedIn() && resource.data.status == 'new' && request.resource.data.status == 'new')
+        || (signedIn() && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['careAction']));
+      allow delete: if isStaff();
+    }
+
+    match /drugInfo/{id} {
+      allow read: if signedIn();
+      allow write: if isStaff();
+    }
+
+    match /messages/{id} {
+      allow read: if signedIn();
+      // Patients can only post as the patient; staff as staff.
+      allow create: if (isStaff() && request.resource.data.from == 'staff')
+        || (signedIn() && request.resource.data.from == 'patient');
+      allow update, delete: if isStaff();
+    }
+
+    match /medicineReports/{id} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.status == 'pending';
+      allow update: if isStaff()
+        || (signedIn() && resource.data.status == 'pending' && request.resource.data.status == 'pending');
+      allow delete: if isStaff();
+    }
+  }
+}

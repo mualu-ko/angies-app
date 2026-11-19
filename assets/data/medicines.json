@@ -1,0 +1,9913 @@
+{
+ "_note": "Starter list (with Kenyan brands; entries with verify=true need checking) plus DDInter 2.0 drug names (CC BY-NC-SA 4.0).",
+ "medicines": [
+  {
+   "name": "Paracetamol",
+   "category": "Pain and fever",
+   "aliases": [
+    "Acetaminophen",
+    "Calpol",
+    "Panadol"
+   ]
+  },
+  {
+   "name": "Ibuprofen",
+   "category": "Pain and fever",
+   "aliases": [
+    "Brufen"
+   ]
+  },
+  {
+   "name": "Diclofenac",
+   "category": "Pain and fever",
+   "aliases": [
+    "Voltaren"
+   ]
+  },
+  {
+   "name": "Aspirin",
+   "category": "Pain and fever",
+   "aliases": [
+    "Acetylsalicylic acid"
+   ]
+  },
+  {
+   "name": "Tramadol",
+   "category": "Pain and fever",
+   "aliases": []
+  },
+  {
+   "name": "Codeine",
+   "category": "Pain and fever",
+   "aliases": []
+  },
+  {
+   "name": "Morphine",
+   "category": "Pain and fever",
+   "aliases": []
+  },
+  {
+   "name": "Naproxen",
+   "category": "Pain and fever",
+   "aliases": []
+  },
+  {
+   "name": "Mefenamic acid",
+   "category": "Pain and fever",
+   "aliases": [
+    "Ponstan"
+   ]
+  },
+  {
+   "name": "Celecoxib",
+   "category": "Pain and fever",
+   "aliases": []
+  },
+  {
+   "name": "Amoxicillin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Amoxicillin-clavulanate",
+   "category": "Antibiotics",
+   "aliases": [
+    "Augmentin"
+   ]
+  },
+  {
+   "name": "Ciprofloxacin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Levofloxacin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Azithromycin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Erythromycin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Clarithromycin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Doxycycline",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Metronidazole",
+   "category": "Antibiotics",
+   "aliases": [
+    "Flagyl"
+   ]
+  },
+  {
+   "name": "Cotrimoxazole",
+   "category": "Antibiotics",
+   "aliases": [
+    "Septrin"
+   ]
+  },
+  {
+   "name": "Cefuroxime",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Ceftriaxone",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Cefixime",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Nitrofurantoin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Clindamycin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Fluconazole",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Nystatin",
+   "category": "Antibiotics",
+   "aliases": []
+  },
+  {
+   "name": "Rifampicin",
+   "category": "TB medicines",
+   "aliases": []
+  },
+  {
+   "name": "Isoniazid",
+   "category": "TB medicines",
+   "aliases": []
+  },
+  {
+   "name": "Pyrazinamide",
+   "category": "TB medicines",
+   "aliases": []
+  },
+  {
+   "name": "Ethambutol",
+   "category": "TB medicines",
+   "aliases": []
+  },
+  {
+   "name": "Tenofovir",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Lamivudine",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Dolutegravir",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Efavirenz",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Zidovudine",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Lopinavir-ritonavir",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Atazanavir",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Nevirapine",
+   "category": "HIV medicines",
+   "aliases": []
+  },
+  {
+   "name": "Artemether-lumefantrine",
+   "category": "Malaria",
+   "aliases": [
+    "Coartem"
+   ]
+  },
+  {
+   "name": "Quinine",
+   "category": "Malaria",
+   "aliases": []
+  },
+  {
+   "name": "Dihydroartemisinin-piperaquine",
+   "category": "Malaria",
+   "aliases": []
+  },
+  {
+   "name": "Sulfadoxine-pyrimethamine",
+   "category": "Malaria",
+   "aliases": [
+    "Fansidar"
+   ]
+  },
+  {
+   "name": "Warfarin",
+   "category": "Blood thinners",
+   "aliases": []
+  },
+  {
+   "name": "Heparin",
+   "category": "Blood thinners",
+   "aliases": []
+  },
+  {
+   "name": "Enoxaparin",
+   "category": "Blood thinners",
+   "aliases": [
+    "Clexane"
+   ]
+  },
+  {
+   "name": "Rivaroxaban",
+   "category": "Blood thinners",
+   "aliases": [
+    "Xarelto"
+   ]
+  },
+  {
+   "name": "Apixaban",
+   "category": "Blood thinners",
+   "aliases": []
+  },
+  {
+   "name": "Clopidogrel",
+   "category": "Blood thinners",
+   "aliases": [
+    "Plavix"
+   ]
+  },
+  {
+   "name": "Amlodipine",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Nifedipine",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Enalapril",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Lisinopril",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Losartan",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Hydrochlorothiazide",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Furosemide",
+   "category": "Heart and blood pressure",
+   "aliases": [
+    "Lasix"
+   ]
+  },
+  {
+   "name": "Spironolactone",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Atenolol",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Bisoprolol",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Carvedilol",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Digoxin",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Amiodarone",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Atorvastatin",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Simvastatin",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Rosuvastatin",
+   "category": "Heart and blood pressure",
+   "aliases": []
+  },
+  {
+   "name": "Metformin",
+   "category": "Diabetes",
+   "aliases": []
+  },
+  {
+   "name": "Glibenclamide",
+   "category": "Diabetes",
+   "aliases": [
+    "Glyburide"
+   ]
+  },
+  {
+   "name": "Gliclazide",
+   "category": "Diabetes",
+   "aliases": []
+  },
+  {
+   "name": "Insulin",
+   "category": "Diabetes",
+   "aliases": []
+  },
+  {
+   "name": "Sitagliptin",
+   "category": "Diabetes",
+   "aliases": []
+  },
+  {
+   "name": "Omeprazole",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Esomeprazole",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Pantoprazole",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Ranitidine",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Famotidine",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Metoclopramide",
+   "category": "Stomach and nausea",
+   "aliases": [
+    "Plasil"
+   ]
+  },
+  {
+   "name": "Ondansetron",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Domperidone",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Loperamide",
+   "category": "Stomach and nausea",
+   "aliases": [
+    "Imodium"
+   ]
+  },
+  {
+   "name": "Lactulose",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Bisacodyl",
+   "category": "Stomach and nausea",
+   "aliases": []
+  },
+  {
+   "name": "Antacid (magnesium/aluminium)",
+   "category": "Stomach and nausea",
+   "aliases": [
+    "Relcer",
+    "Gaviscon"
+   ]
+  },
+  {
+   "name": "Fluoxetine",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Paroxetine",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Sertraline",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Citalopram",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Escitalopram",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Amitriptyline",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Diazepam",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Lorazepam",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Haloperidol",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Olanzapine",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Carbamazepine",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Sodium valproate",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Phenytoin",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Phenobarbital",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Levetiracetam",
+   "category": "Mental health and sleep",
+   "aliases": []
+  },
+  {
+   "name": "Cetirizine",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Loratadine",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Chlorpheniramine",
+   "category": "Allergy and breathing",
+   "aliases": [
+    "Piriton"
+   ]
+  },
+  {
+   "name": "Prednisolone",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Dexamethasone",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Hydrocortisone",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Salbutamol",
+   "category": "Allergy and breathing",
+   "aliases": [
+    "Ventolin"
+   ]
+  },
+  {
+   "name": "Beclomethasone",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Montelukast",
+   "category": "Allergy and breathing",
+   "aliases": []
+  },
+  {
+   "name": "Levothyroxine",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Combined oral contraceptive pill",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Medroxyprogesterone",
+   "category": "Hormones and other",
+   "aliases": [
+    "Depo-Provera"
+   ]
+  },
+  {
+   "name": "Folic acid",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Ferrous sulphate",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Calcium carbonate",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Vitamin D",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Zinc",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Allopurinol",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Sildenafil",
+   "category": "Hormones and other",
+   "aliases": []
+  },
+  {
+   "name": "Capecitabine",
+   "category": "Cancer medicines",
+   "aliases": [
+    "Xeloda"
+   ]
+  },
+  {
+   "name": "Imatinib",
+   "category": "Cancer medicines",
+   "aliases": [
+    "Glivec"
+   ]
+  },
+  {
+   "name": "Tamoxifen",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Letrozole",
+   "category": "Cancer medicines",
+   "aliases": [
+    "Femara"
+   ]
+  },
+  {
+   "name": "Anastrozole",
+   "category": "Cancer medicines",
+   "aliases": [
+    "Arimidex"
+   ]
+  },
+  {
+   "name": "Exemestane",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Abiraterone",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Bicalutamide",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Methotrexate",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Hydroxyurea",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Cyclophosphamide",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Etoposide",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "Temozolomide",
+   "category": "Cancer medicines",
+   "aliases": []
+  },
+  {
+   "name": "St John's wort",
+   "category": "Herbal and supplements",
+   "aliases": [
+    "St. John's Wort"
+   ]
+  },
+  {
+   "name": "Grapefruit juice",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Turmeric",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Ginger",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Garlic supplement",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Ginseng",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Moringa",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Aloe vera",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Echinacea",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Herbal remedy (other)",
+   "category": "Herbal and supplements",
+   "aliases": []
+  },
+  {
+   "name": "Mara Moja",
+   "category": "Pain and fever (brand)",
+   "aliases": [
+    "Maramoja"
+   ],
+   "contains": [
+    "paracetamol",
+    "aspirin",
+    "caffeine"
+   ],
+   "verify": true
+  },
+  {
+   "name": "Panadol Extra",
+   "category": "Pain and fever (brand)",
+   "aliases": [],
+   "contains": [
+    "paracetamol",
+    "caffeine"
+   ],
+   "verify": true
+  },
+  {
+   "name": "Hedex",
+   "category": "Pain and fever (brand)",
+   "aliases": [],
+   "contains": [
+    "paracetamol"
+   ],
+   "verify": true
+  },
+  {
+   "name": "Caffeine",
+   "category": "Other",
+   "aliases": []
+  },
+  {
+   "name": "Mwarubaini (neem)",
+   "category": "Herbal and supplements",
+   "aliases": [
+    "Neem",
+    "Mwarubaini"
+   ]
+  },
+  {
+   "name": "Prunus africana",
+   "category": "Herbal and supplements",
+   "aliases": [
+    "Pygeum",
+    "Mueri"
+   ]
+  },
+  {
+   "name": "Abacavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abaloparatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abametapir (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abarelix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abatacept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abciximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Abemaciclib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acalabrutinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acamprosate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acarbose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acebutolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acenocoumarol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acetazolamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acetohexamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acetohydroxamic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acetylcholine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acetylcysteine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acitretin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aclidinium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acrivastine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Activated charcoal",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acyclovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Acyclovir (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Adalimumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Adapalene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Adapalene (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Adefovir dipivoxil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Adenosine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Afatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aflibercept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Agalsidase beta",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Albendazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Albiglutide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alclometasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aldesleukin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alectinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alefacept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alemtuzumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alendronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alfentanil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alfuzosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alimemazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aliskiren",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alitretinoin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Almotriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aloe Vera Leaf",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alogliptin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alosetron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alpelisib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alprazolam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alprostadil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alteplase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Altretamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aluminum hydroxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Alvimopan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amantadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ambenonium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ambrisentan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amcinonide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amifampridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amifostine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amikacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amikacin (liposome)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amiloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminobenzoic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminocaproic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminoglutethimide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminolevulinic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminolevulinic acid (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminophylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aminosalicylic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amisulpride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ammonium chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amobarbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amoxapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amphetamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amphotericin B",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amphotericin B (cholesteryl sulfate)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amphotericin B (lipid complex)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amphotericin B (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ampicillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amprenavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amrinone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Amyl Nitrite",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anagrelide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anakinra",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anidulafungin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anisindione",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anistreplase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anthrax vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Anti-inhibitor coagulant complex",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Antihemophilic factor, human recombinant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Antilymphocyte immunoglobulin (horse)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Antithrombin Alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Antithrombin III human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Antithymocyte immunoglobulin (rabbit)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Apalutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Apomorphine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Apraclonidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Apremilast",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aprepitant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aprotinin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Arbutamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ardeparin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Arformoterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Argatroban",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aripiprazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Armodafinil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Arsenic trioxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Artemether",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Artesunate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Articaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ascorbic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Asenapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Asparaginase Erwinia chrysanthemi",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Asparaginase Escherichia coli",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Astemizole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atezolizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atomoxetine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atovaquone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atracurium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atropine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Atropine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Attapulgite",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Auranofin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aurothioglucose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Avanafil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Avapritinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Avatrombopag",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Avelumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Axicabtagene ciloleucel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Axitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azacitidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azatadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azathioprine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azelaic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azelaic acid (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azelastine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azelastine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azelastine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Azilsartan medoxomil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Aztreonam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bacampicillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bacillus calmette-guerin substrain tice live antigen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bacitracin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Baclofen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Baloxavir marboxil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Balsalazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Baricitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Basiliximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bazedoxifene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Beclomethasone dipropionate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Beclomethasone dipropionate (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bedaquiline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Belantamab mafodotin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Belatacept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Belimumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Belinostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Belladonna",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bempedoic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benazepril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bendamustine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bendroflumethiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzalkonium (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzatropine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzhydrocodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benznidazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzocaine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzonatate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzoyl peroxide (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzphetamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzthiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzylpenicillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzylpenicillin (potassium)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Benzylpenicillin (sodium)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bepridil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Berotralstat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Beta carotene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Betamethasone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Betamethasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Betaxolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Betaxolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bethanechol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Betrixaban",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bevacizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bexarotene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bexarotene (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bictegravir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bifidobacterium longum infantis",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bimatoprost",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Binimetinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Biperiden",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bismuth subcitrate potassium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bismuth subgallate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bismuth subsalicylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bivalirudin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bleomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Blinatumomab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Boceprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bortezomib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bosentan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bosutinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Botulinum Toxin Type B",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Botulinum toxin type A",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bremelanotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brentuximab vedotin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bretylium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brexanolone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brexpiprazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brexucabtagene autoleucel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brigatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brimonidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brimonidine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brimonidine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brinzolamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brinzolamide (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brivaracetam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brodalumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bromfenac",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bromfenac (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bromocriptine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bromotheophylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Brompheniramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Budesonide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Budesonide (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bumetanide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bupivacaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bupivacaine (liposome)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Buprenorphine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Bupropion",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Burosumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Buspirone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Busulfan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Butabarbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Butalbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Butorphanol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cabazitaxel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cabergoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cabotegravir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cabozantinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calaspargase pegol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcifediol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcipotriol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcipotriol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcitriol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcitriol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium Phosphate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium citrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium glubionate anhydrous",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium glucoheptonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium glycerophosphate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Calcium lactate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Canagliflozin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Canakinumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Candida albicans",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cangrelor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cannabidiol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Caplacizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Capmatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Capreomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Capromab pendetide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Capsicum",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Captopril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carbamoylcholine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carbenicillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carbinoxamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carboplatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carfilzomib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cariprazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carisoprodol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carmustine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carteolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Carteolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Caspofungin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Castor oil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cedazuridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefaclor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefadroxil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefalotin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefamandole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefapirin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefazolin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefdinir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefditoren",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefepime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefiderocol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefmetazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefonicid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefoperazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefotaxime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefotetan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefoxitin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefpodoxime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefprozil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cefradine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceftaroline fosamil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceftazidime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceftibuten",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceftizoxime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceftolozane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cemiplimab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cenobamate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cephalexin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ceritinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cerivastatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Certolizumab pegol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cetuximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cetylpyridinium (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cevimeline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chamomile",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chenodeoxycholic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloral hydrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorambucil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloramphenicol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloramphenicol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloramphenicol (otic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorcyclizine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlordiazepoxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorhexidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlormezanone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloroprocaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chloroquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorothiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorphenesin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorpromazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorpropamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorthalidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chlorzoxazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cholecalciferol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cholestyramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cholic Acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Choline salicylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chondroitin sulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chorionic Gonadotropin (Human)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chromic chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Chromium picolinate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ciclesonide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ciclesonide (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ciclopirox",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cidofovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cilostazol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cimetidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cinacalcet",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cinchocaine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cinoxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cisapride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cisatracurium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cisplatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Citric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Citrus bioflavonoids",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cladribine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clavulanic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clemastine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clevidipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clidinium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clindamycin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clioquinol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clobazam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clobetasol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clobetasol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clocortolone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clofarabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clofazimine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clofedanol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clofibrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clomifene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clomipramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clonazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clonidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clorazepic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clotrimazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clove",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cloxacillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Clozapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coagulation Factor IX Human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coagulation factor VIIa Recombinant Human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coagulation factor X human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coal tar (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cobicistat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cobimetinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cocaine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cocaine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coccidioides immitis spherule",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Coenzyme M",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Colchicine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Colesevelam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Colestipol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Colistimethate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Collagenase clostridium histolyticum",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Collagenase clostridium histolyticum (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Conestat alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Conivaptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Conjugated estrogens",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Conjugated estrogens (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Copanlisib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Copper gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Copper oxodotreotide Cu-64",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Corticotropin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cranberry",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Creatine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Crizotinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cromoglicic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyanocobalamin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyclandelate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyclizine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyclobenzaprine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyclopentolate (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cycloserine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyclosporine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cyproheptadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cytarabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Cytarabine (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dabrafenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dacarbazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Daclatasvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dacomitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dactinomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dalbavancin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dalfampridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dalfopristin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dalteparin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Danaparoid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Danazol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dantrolene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dapagliflozin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dapsone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dapsone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Daptomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Daratumumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Darbepoetin alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Darifenacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Darolutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Darunavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dasabuvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dasatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Daunorubicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Daunorubicin (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Decitabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deferasirox",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deferiprone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deferoxamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Defibrotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deflazacort",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Degarelix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dehydrocholic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Delafloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Delavirdine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Demecarium (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Demeclocycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Denileukin diftitox",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Denosumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deoxycholic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deserpidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desflurane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desipramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desirudin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desloratadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desmopressin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desogestrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desonide (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desoximetasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Desvenlafaxine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Deutetrabenazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexamethasone (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexamethasone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexamethasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexbrompheniramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexfenfluramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexlansoprazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexmedetomidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexmethylphenidate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dexrazoxane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextran (-1)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextran (high molecular weight)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextran (low molecular weight)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextroamphetamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextromethorphan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextropropoxyphene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextrose, unspecified form",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dextrothyroxine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dezocine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diamorphine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diatrizoate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diazoxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dichloralphenazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diclofenac (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diclofenac (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diclofenamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dicloxacillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dicoumarol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dicyclomine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Didanosine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dienestrol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dienogest",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diethylpropion",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diethylstilbestrol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Difenoxin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diflorasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diflunisal",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Difluprednate (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Digitoxin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Digoxin Immune Fab (Ovine)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dihydrocodeine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dihydroergotamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dihydrotachysterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diiodohydroxyquinoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diltiazem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dimenhydrinate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dimercaprol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dimethyl fumarate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dinoprostone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dinutuximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diphenhydramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diphenhydramine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diphenoxylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dipivefrin (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dipyridamole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Diroximel fumarate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Disopyramide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Disulfiram",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dobutamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Docetaxel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Docusate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dofetilide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dolasetron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Donepezil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dopamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doravirine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doripenem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dornase alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dorzolamide (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dotatate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxacurium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxapram",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxazosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxepin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxepin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxercalciferol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxorubicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxorubicin (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxycycline (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Doxylamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dronabinol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dronedarone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Droperidol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Drospirenone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Drotrecogin alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Droxidopa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dulaglutide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Duloxetine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dupilumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Durvalumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dutasteride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Duvelisib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Dyphylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Echothiophate (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Econazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Econazole (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eculizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Edetate calcium disodium anhydrous",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Edetate disodium anhydrous",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Edoxaban",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Edrophonium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Efalizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Elagolix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Elbasvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eletriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Elexacaftor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eliglustat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Elotuzumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eltrombopag",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eluxadoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Elvitegravir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Emapalumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Emicizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Empagliflozin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Emtricitabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enasidenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Encorafenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enflurane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enfortumab vedotin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enfuvirtide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enoxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Entacapone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Entecavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Entrectinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Enzalutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ephedrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ephedrine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Epinephrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Epinephrine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Epinephrine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Epirubicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eplerenone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Epoprostenol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eprosartan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eptifibatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eravacycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Erdafitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ergocalciferol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ergoloid mesylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ergometrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ergotamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eribulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Erlotinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ertapenem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ertugliflozin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Erythropoietin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Esketamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eslicarbazepine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Esmolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estazolam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Esterified estrogens",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estradiol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estradiol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estramustine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estrone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estrone sulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Estrone sulfate (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Eszopiclone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etacrynic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etanercept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etelcalcetide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethanol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethchlorvynol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethinylestradiol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethiodized oil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethionamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethosuximide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ethotoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etidocaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etidronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etodolac",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etomidate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etonogestrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Etravirine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Everolimus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Exenatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ezetimibe",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ezogabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Factor IX Complex (Human)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Factor XIII (human)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Famciclovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Febuxostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fedratinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Felbamate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Felodipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fenfluramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fenofibrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fenofibric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fenoldopam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fenoprofen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fentanyl",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferric carboxymaltose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferric derisomaltose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferrous fumarate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferrous gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferrous sulfate anhydrous",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferumoxides",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferumoxsil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ferumoxytol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fesoterodine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fexofenadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fibrinogen human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fidaxomicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Filgrastim",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Finasteride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fingolimod",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flavoxate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flax seed",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flecainide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flibanserin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Floxuridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flucytosine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fludarabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fludeoxyglucose (18F)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fludrocortisone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flumazenil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flunisolide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flunisolide (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluocinolone acetonide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluocinonide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluocinonide (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluorometholone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluorometholone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluorouracil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluoxymesterone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluphenazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flurandrenolide (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flurazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flurbiprofen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flurbiprofen (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Flutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluticasone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluticasone (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluticasone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluvastatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fluvoxamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Follitropin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fomepizole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fondaparinux",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Formoterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosamprenavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosaprepitant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Foscarnet",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosfomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosinopril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosnetupitant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fosphenytoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fospropofol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fostamatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fostemsavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Frangula purshiana bark",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Frovatriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Fulvestrant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gabapentin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadobenic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadobutrol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadodiamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadofosveset trisodium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadopentetic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadoteric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadoteridol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadoversetamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gadoxetic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Galactose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Galantamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gallium chloride Ga-67",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gallium nitrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ganciclovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ganirelix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Garlic",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gatifloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gefitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gemcitabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gemfibrozil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gemifloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gemtuzumab ozogamicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gentamicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gentamicin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gilteritinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ginkgo biloba",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Givosiran",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glasdegib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glatiramer",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glecaprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glimepiride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glipizide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glucagon",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glucarpidase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glucosamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glutamic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glycerin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glycerol phenylbutyrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glycopyrronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Glycopyrronium (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Goldenseal",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Golimumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Gonadorelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Goserelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Granisetron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Grazoprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Grepafloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Griseofulvin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guanabenz",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guanadrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guanethidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guanfacine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guanidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Guselkumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Halazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Halcinonide (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Halofantrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Halothane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hemin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Heparin (flush)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hepatitis A Vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hepatitis B Vaccine (Recombinant)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hexachlorophene (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hexaminolevulinate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Histamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Histrelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Homatropine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Homatropine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human C1-esterase inhibitor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human Rho(D) immune globulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human adenovirus e serotype 4 strain cl-68578 antigen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human botulinum neurotoxin A/B immune globulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human cytomegalovirus immune globulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human immunoglobulin G (intramuscular)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human immunoglobulin G (intravenous and subcutaneous)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human immunoglobulin G (intravenous)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human immunoglobulin G (subcutaneous)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Human papillomavirus type 11 L1 capsid protein antigen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hyaluronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hyaluronidase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydralazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydrocodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydrocortisone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydrocortisone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydrocortisone butyrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydroflumethiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydromorphone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydroxocobalamin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydroxyamphetamine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydroxychloroquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hydroxyzine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Hyoscyamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ibandronate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ibritumomab tiuxetan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ibrutinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ibutilide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Icatibant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Icosapent",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Idarubicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Idelalisib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ifosfamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iloperidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iloprost",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Imiglucerase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Imipenem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Imipramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Imiquimod",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Imiquimod (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indacaterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indapamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indinavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indium In-111 oxyquinoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indium In-111 pentetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indium In-111 pentetreotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Indomethacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Inebilizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Infliximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Influenza A virus A/California/7/2009 (H1N1)-like antigen (propiolactone inactivated)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Influenza A virus A/Vietnam/1194/2004 (H5N1) antigen (formaldehyde inactivated)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Inotersen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Inotuzumab ozogamicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin aspart (aspart protamine)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin aspart (aspart)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin degludec",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin detemir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin glargine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin glulisine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human (inhalation, rapid acting)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human (isophane)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human (regular)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human (zinc extended)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin human (zinc)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin lispro",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Insulin lispro (protamine)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon alfa-2a, Recombinant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon alfa-2b",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon alfa-n1",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon alfa-n3",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon alfacon-1",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon beta-1a",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon beta-1b",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Interferon gamma-1b",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Inulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iobenguane (I-123)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iobenguane (I-131)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodide I-123",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodide I-131",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodipamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iodixanol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ioflupane I-123",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iohexol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iopamidol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iopanoic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iopodic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iopromide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iothalamic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ioversol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ioxilan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ipecac",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ipilimumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ipratropium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ipratropium (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Irbesartan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Irinotecan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Irinotecan (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iron Dextran",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iron protein succinylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Iron sucrose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isatuximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isavuconazonium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isocarboxazid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isoetharine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isoflurane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isoflurophate (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isometheptene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isoprenaline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isosorbide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isosorbide dinitrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isosorbide mononitrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isotretinoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isoxsuprine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Isradipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Istradefylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Itraconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ivabradine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ivacaftor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ivermectin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ivermectin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ivosidenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ixabepilone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ixazomib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ixekizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Kanamycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Kaolin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Kava",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketoconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketoprofen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketorolac",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketorolac (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ketotifen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Labetalol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lacosamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lactic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lactitol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lactobacillus acidophilus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lamotrigine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lanreotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lansoprazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lanthanum carbonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lapatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Laronidase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Larotrectinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lasmiditan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Latanoprost",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ledipasvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lefamulin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Leflunomide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lemborexant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lenalidomide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lenvatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lepirudin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lesinurad",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Letermovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Leucovorin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Leuprolide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levacetylmethadol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levamisole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levamlodipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levmetamfetamine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levobetaxolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levobunolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levobunolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levobupivacaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levocarnitine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levocetirizine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levodopa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levoleucovorin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levomefolic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levomefolic acid (calcium)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levomilnacipran",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levonordefrin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levonorgestrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levorphanol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Levosalbutamol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Licorice",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lidocaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lidocaine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lidocaine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Linaclotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Linagliptin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lincomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lindane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Linezolid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Liothyronine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Liotrix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lipoic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Liraglutide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lisdexamfetamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lisocabtagene maraleucel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lithium carbonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lixisenatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lofexidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lomefloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lomitapide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lomustine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lonafarnib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lopinavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Loracarbef",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lorcaserin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lorlatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Loteprednol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Loteprednol etabonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lovastatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Loxapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lubiprostone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lumacaftor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lumateperone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lumefantrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lurasidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lurbinectedin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lusutrombopag",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lutein",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lutetium Lu 177 dotatate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Lyme disease vaccine (recombinant OspA)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Macimorelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Macitentan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magaldrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium carbonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium citrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium glycinate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium hydroxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium oxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Magnesium sulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Manganese (chloride)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Manganese (sulfate)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mannitol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Maprotiline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Maraviroc",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mazindol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Measles virus vaccine live attenuated",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mebendazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mebrofenin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mecamylamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mecasermin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mecasermin rinfabate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mechlorethamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meclizine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meclofenamic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mecobalamin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Medroxyprogesterone acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Medrysone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mefloquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Megestrol acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Melatonin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meloxicam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Melphalan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Melphalan flufenamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Memantine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meningococcal polysaccharide vaccine group C",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Menotropins",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mepenzolate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meperidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mephentermine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mephenytoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mepivacaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meprobamate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mepyramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mercaptopurine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meropenem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mesalazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mesoridazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mestranol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metamfetamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metaraminol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metaxalone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methacholine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methadone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methazolamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methdilazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methenamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methimazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methionine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methocarbamol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methohexital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methotrimeprazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methoxamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methoxsalen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methoxsalen (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methoxyflurane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methscopolamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methsuximide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methyl aminolevulinate (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methyl salicylate (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylcellulose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methyldopa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylene blue",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylergometrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylnaltrexone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylphenidate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylphenobarbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylprednisolone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methylprednisolone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methyltestosterone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Methysergide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Meticillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metipranolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metocurine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metolazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metoprolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metreleptin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metronidazole (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metyrapone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Metyrosine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mexiletine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mezlocillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Micafungin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Miconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Miconazole (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Microcrystalline cellulose",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Midazolam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Midodrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Midostaurin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mifepristone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Migalastat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Miglitol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Miglustat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Milk thistle",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Milnacipran",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Milrinone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Miltefosine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mineral oil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Minocycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Minocycline (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Minoxidil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Minoxidil (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mipomersen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mirabegron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mirtazapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Misoprostol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mitomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mitotane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mitoxantrone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mivacurium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Modafinil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Moexipril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mogamulizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Molindone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Monomethyl fumarate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Monopotassium phosphate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Moricizine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Morphine (liposomal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Moxetumomab Pasudotox",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Moxifloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mumps virus strain B level jeryl lynn live antigen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mupirocin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Muromonab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mycophenolate mofetil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Mycophenolic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nabilone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nabumetone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nadolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nafcillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nalbuphine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naldemedine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nalidixic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nalmefene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naloxegol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naloxone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naltrexone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naphazoline (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naphazoline (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naratriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Natalizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nateglinide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Naxitamab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nebivolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Necitumumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nedocromil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nefazodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nelarabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nelfinavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Neomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Neomycin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Neostigmine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nepafenac (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Neratinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nesiritide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Netilmicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Netupitant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Niacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nicardipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Niclosamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nicotinamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nicotine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nifurtimox",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nilotinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nilutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nimodipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nintedanib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Niraparib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nisoldipine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitazoxanide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitisinone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitrazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitric Oxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitroglycerin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitroprusside",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitrous acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nitrous oxide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nivolumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nizatidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norelgestromin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norepinephrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norethisterone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norfloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norgestimate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Norgestrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Nortriptyline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Novobiocin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Obeticholic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Obinutuzumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ocrelizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Octasulfur (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Octreotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ofatumumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ofloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olaparib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olaratumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oliceridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olmesartan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olodaterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olopatadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olopatadine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Olsalazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Omacetaxine mepesuccinate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Omadacycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Omalizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Omega-3 fatty acids",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Onasemnogene abeparvovec",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Opicapone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Opium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oprelvekin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Orciprenaline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oritavancin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Orlistat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Orphenadrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oseltamivir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Osilodrostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Osimertinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ospemifene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxacillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxaliplatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxamniquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxandrolone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxaprozin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxcarbazepine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxitriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxtriphylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxybuprocaine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxybutynin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxycodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxygen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxymetazoline (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxymetazoline (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxymetazoline (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxymetholone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxymorphone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxyquinoline (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxytetracycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Oxytocin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ozanimod",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paclitaxel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paclitaxel (protein-bound)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Palbociclib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Palifermin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paliperidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Palonosetron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pamidronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pancrelipase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pancuronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Panitumumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Panobinostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Papaverine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Papaya",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paraldehyde",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paramethadione",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Parathyroid hormone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paricalcitol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paritaprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Paromomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pasireotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Patiromer",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pazopanib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pectin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegademase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegaptanib (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegaspargase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegfilgrastim",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Peginesatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Peginterferon alfa-2a",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Peginterferon alfa-2b",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Peginterferon beta-1a",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegloticase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegvaliase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pegvisomant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pembrolizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pemetrexed",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pemigatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pemoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Penbutolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Penciclovir (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Penicillamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentamidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentazocine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentobarbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentosan polysulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentostatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentoxifylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pentoxyverine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Perampanel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Perflutren",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pergolide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Perindopril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Perphenazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pertuzumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pexidartinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pfizer-BioNTech Covid-19 Vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenacemide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenazopyridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phendimetrazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenelzine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenindamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenolphthalein",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenoxybenzamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenoxymethylpenicillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phensuximide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phentermine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phentolamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenyl salicylate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylbutazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylbutyric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylephrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylephrine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylephrine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylephrine (otic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylephrine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenylpropanolamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phenyltoloxamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Phylloquinone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Physostigmine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Physostigmine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Picosulfuric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pilocarpine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pilocarpine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pimavanserin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pimecrolimus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pimecrolimus (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pimozide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pindolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pioglitazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pipecuronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Piperacillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Piperazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pirbuterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pirfenidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Piroxicam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pitavastatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pitolisant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Plantago seed",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Plazomicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Plecanatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Plicamycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Polatuzumab vedotin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Poliovirus type 1 antigen (formaldehyde inactivated)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Polyethylene glycol (3350 with electrolytes)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Polyethylene glycol (3350)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Polymyxin B",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Polythiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pomalidomide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ponatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Porfimer sodium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Posaconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium Iodide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium bicarbonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium citrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Potassium perchlorate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pralatrexate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pralidoxime",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pralsetinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pramipexole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pramlintide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prasterone enantate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prasugrel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pravastatin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Praziquantel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prazosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prednicarbate (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prednisolone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prednisone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pregabalin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pretomanid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prilocaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prilocaine (topiclal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Primaquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Primidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Probenecid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Probucol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Procainamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Procaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Procarbazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prochlorperazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Procyclidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Progesterone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Progesterone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Proguanil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Promazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Promethazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propafenone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propantheline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Proparacaine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propiomazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propofol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propranolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propylhexedrine (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Propylthiouracil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Protein C",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Protriptyline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Prucalopride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pseudoephedrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pyrantel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pyridostigmine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pyridoxine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pyrimethamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Pyrophosphoric acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quetiapine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quinapril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quinestrol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quinidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Quinupristin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rabeprazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Racepinephrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Radium Ra 223 dichloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Raloxifene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Raltegravir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ramelteon",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ramipril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ramucirumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ranitidine (bismuth citrate)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ranolazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rapacuronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rasagiline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rasburicase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ravulizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Regadenoson",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Regorafenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Relugolix",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Remdesivir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Remifentanil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Remimazolam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Repaglinide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Reserpine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Resorcinol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Retapamulin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Reteplase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Revefenacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ribavirin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ribociclib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rifabutin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rifamycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rifapentine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rifaximin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rilonacept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rilpivirine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Riluzole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rimantadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rimegepant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rimexolone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Riociguat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ripretinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Risankizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Risdiplam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Risedronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Risperidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ritodrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ritonavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rituximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rivastigmine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rizatriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rocuronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rofecoxib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Roflumilast",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rolapitant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Romidepsin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Romiplostim",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Romosozumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ropinirole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ropivacaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rosiglitazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rotavirus vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rotigotine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rubella virus vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rucaparib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Rufinamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ruxolitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sacituzumab govitecan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sacubitril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Safinamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Salicylic acid (sodium)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Salicylic acid (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Salmeterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Salmon calcitonin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Salsalate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Samarium (153Sm) lexidronam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sapropterin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Saquinavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sarecycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sargramostim",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sarilumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Satralizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Saw palmetto",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Saxagliptin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Scopolamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Scopolamine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Secnidazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Secobarbital",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Secretin human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Secukinumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selegiline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selenium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selenium Sulfide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selexipag",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selinexor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selpercatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Selumetinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Semaglutide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sermorelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sevelamer",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sevoflurane",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sibutramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Silodosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Siltuximab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Silver (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Silver nitrate (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Silver nitrate (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Silver sulfadiazine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Simeprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Simethicone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Siponimod",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sipuleucel-T",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sirolimus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Smallpox (Vaccinia) Vaccine, Live",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium aurothiomalate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium bicarbonate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium cellulose phosphate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium citrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium ferric gluconate complex",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium glycerophosphate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium iodide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium oxybate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium phosphate, monobasic",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium phosphate, monobasic (p32)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium sulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sodium zirconium cyclosilicate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sofosbuvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Solifenacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Solriamfetol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Somapacitan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Somatotropin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Somatrem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sonidegib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sorafenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sorbitol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sotalol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sparfloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Spectinomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Stanozolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Stavudine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Stiripentol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Streptokinase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Streptomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Streptozocin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Strontium chloride Sr-89",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Succinylcholine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sucralfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sufentanil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sugammadex",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfacetamide (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfadiazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfadoxine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfamethizole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfamethoxazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfasalazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfinpyrazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulfisoxazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sulindac",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sumatriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Sunitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Suprofen (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Suvorexant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tacrine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tacrolimus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tadalafil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tafamidis",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tafasitamab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tafenoquine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tagraxofusp",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Talazoparib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Talimogene laherparepvec",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tamsulosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tapentadol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tasimelteon",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tazarotene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tazarotene (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tazemetostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tedizolid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Teduglutide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tegaserod",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telaprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telavancin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telbivudine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telithromycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telmisartan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Telotristat ethyl",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Temazepam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Temsirolimus",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tenecteplase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Teniposide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Teprotumumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Terazosin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Terbinafine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Terbutaline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Terfenadine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Teriflunomide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Teriparatide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tesamorelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Testolactone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Testosterone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Testosterone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetrabenazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracaine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracaine (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracaine (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracosactide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetracycline (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetraferric tricitrate decahydrate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetrofosmin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetryzoline (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tetryzoline (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thalidomide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thallous Chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Theophylline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thiabendazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thiethylperazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thimerosal (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thiopental",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thioridazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thiotepa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thiothixene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thyroid, porcine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Thyrotropin alfa",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tiagabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ticagrelor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ticarcillin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ticlopidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tigecycline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tildrakizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tilmanocept",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tiludronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Timolol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Timolol (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tinidazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tinzaparin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tioconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tioguanine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tiotropium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tipiracil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tipranavir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tirofiban",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tisagenlecleucel",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tivozanib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tizanidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tobramycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tocainide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tocilizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tofacitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolazamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolazoline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolbutamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolcapone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolevamer",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolmetin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolterodine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tolvaptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Topiramate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Topotecan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Torasemide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Toremifene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tositumomab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tositumomab (I-131)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trabectedin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trametinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trandolapril",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tranexamic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tranylcypromine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trastuzumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trastuzumab deruxtecan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trastuzumab emtansine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Travoprost",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trazodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Treprostinil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tretinoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tretinoin (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triamcinolone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triamcinolone (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triamcinolone (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triamcinolone (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triamterene",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triazolam",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trichlormethiazide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trichophyton mentagrophytes",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triclabendazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triethylenetetramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trifarotene (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trifluoperazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triflupromazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trifluridine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triheptanoin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trihexyphenidyl",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimethadione",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimethaphan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimethobenzamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimethoprim",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimetrexate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trimipramine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trioxsalen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tripelennamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triprolidine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Triptorelin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Troglitazone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Troleandomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tromethamine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tropicamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tropicamide (ophthalmic)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trospium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Trovafloxacin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tryptophan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tuberculin purified protein derivative",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tubocurarine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tucatinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Typhoid vaccine (inactivated)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Typhoid vaccine (live)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Tyropanoic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ubrogepant",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ulipristal",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ulobetasol (topical)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Umeclidinium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Upadacitinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Uracil mustard",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Urea",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Urofollitropin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Urokinase",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ursodeoxycholic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ustekinumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valaciclovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valbenazine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valdecoxib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valerian",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valganciclovir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valproic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valrubicin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Valsartan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vancomycin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vandetanib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vardenafil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Varenicline",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Varicella Zoster Vaccine (Recombinant)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vasopressin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vecuronium",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vedolizumab",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Velpatasvir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vemurafenib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Venetoclax",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Venlafaxine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Verapamil",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Verteporfin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vibegron",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vibrio cholerae CVD 103-HgR strain live antigen",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vibrio cholerae CVD 103-HgR strain live antigen (live)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vigabatrin",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vilanterol",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vilazodone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vinblastine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vincristine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vincristine (liposome)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vinorelbine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vismodegib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vitamin A",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vitamin E",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Von Willebrand Factor Human",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vorapaxar",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Voriconazole",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vorinostat",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Vortioxetine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Voxelotor",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Voxilaprevir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Xylometazoline (nasal)",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Yellow Fever Vaccine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Yohimbine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zafirlukast",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zalcitabine",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zaleplon",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zanamivir",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zanubrutinib",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ziconotide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zileuton",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zinc acetate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zinc chloride",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zinc gluconate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zinc sulfate",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Ziprasidone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zoledronic acid",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zolmitriptan",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zolpidem",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zonisamide",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "Zopiclone",
+   "category": "DDInter",
+   "aliases": []
+  },
+  {
+   "name": "gamma-Aminobutyric acid",
+   "category": "DDInter",
+   "aliases": []
+  }
+ ]
+}
